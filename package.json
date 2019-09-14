@@ -95,6 +95,7 @@
   },
   "testing": {
     "urls": {
+      "local": "http://tenup-scaffold.test",
       "homepage": "http://tenup-scaffold.test",
       "article": "http://tenup-scaffold.test/hello-world",
       "search-results": "http://tenup-scaffold.test/?s=hello"
